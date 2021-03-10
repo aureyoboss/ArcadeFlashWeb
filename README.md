@@ -1,5 +1,5 @@
 # ArcadeFlashWeb
-ArcadeFlashWeb is a program to play Flash Games (SWF) on local or on internet, without installing Flash Player (works despite the end of Flash).
+ArcadeFlashWeb is a easy program to play local/internet Flash Games (SWF), without installing Flash Player (works despite the end of Flash).
 It's work on Windows 7, 8, 8.1 and 10.
 
 Versions : command line (perfect for Arcade Cabinet) and GUI.
@@ -8,10 +8,10 @@ Versions : command line (perfect for Arcade Cabinet) and GUI.
 * [x] Play SWF without installing Flash Player.
 * [x] Create GUI interface.
 * [x] Run in fullscreen.
-* [x] Play SWF and open internet adresse with line commande.
+* [x] Play SWF and open internet adress with command line.
 * [x] Create a file browser.
 * [ ] Add shortcuts in file browser (My documents, Downloads, Desktop, Home).
-* [ ] Control the mouse cursor with a jostick.
+* [ ] Control the mouse cursor and click with a jostick.
 * [ ] Upload the software.
 * [ ] Code source on Github.
 
