@@ -6,6 +6,8 @@ To control the mouse cursor and click with a jostick, use [AntiMicro](https://gi
 
 Versions : command line (perfect for Arcade Cabinet) and GUI.
 
+With ArcadeFlashWeb it is therefore possible to play Flash in 2021! :tada:
+
 ## ToDoList
 * [x] Play SWF without installing Flash Player.
 * [x] Create GUI interface.
