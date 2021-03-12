@@ -20,7 +20,7 @@ Versions : command line (perfect for Arcade Cabinet) and GUI.
 ## How work
 - For GUI interface : **ArcadeFlashWeb.exe** --ppapi-flash-path=./pepflashplayer.dll
 - For Command line (SWF local) : **ArcadeFlashWeb.exe** --ppapi-flash-path=./pepflashplayer.dll C:/Users/AureyoBoss/Downloads/phoenotopia.swf
-- For Command line (SWF on internet) : **ArcadeFlashWeb.exe** --ppapi-flash-path=./pepflashplayer.dll https://www.diena.lt/sites/default/files/games/406479.swf -w
+- For Command line (SWF on internet) : **ArcadeFlashWeb.exe** --ppapi-flash-path=./pepflashplayer.dll https://www.diena.lt/sites/default/files/games/406479.swf
 
 ## Download
 Beta is very soon !
