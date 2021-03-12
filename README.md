@@ -12,7 +12,7 @@ Versions : command line (perfect for Arcade Cabinet) and GUI.
 * [x] Run in fullscreen.
 * [x] Play SWF and open internet adress with command line.
 * [x] Create a file browser.
-* [x] Add shortcuts in file browser (My documents, Downloads, Desktop, Home).
+* [x] Add shortcuts in file browser (My documents, Downloads, Desktop, Home and Drive letter assignment).
 * [ ] Tests.
 * [ ] Upload the software.
 * [ ] Code source on Github.
