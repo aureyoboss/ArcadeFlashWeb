@@ -21,9 +21,9 @@ With ArcadeFlashWeb it is therefore possible to play Flash in 2021! :tada:
 * [ ] Code source on Github.
 
 ## How work
-- For GUI interface : **ArcadeFlashWeb.exe** --ppapi-flash-path=./pepflashplayer.dll
-- For Command line (SWF local) : **ArcadeFlashWeb.exe** --ppapi-flash-path=./pepflashplayer.dll C:/Users/AureyoBoss/Downloads/phoenotopia.swf
-- For Command line (SWF on internet) : **ArcadeFlashWeb.exe** --ppapi-flash-path=./pepflashplayer.dll https://www.diena.lt/sites/default/files/games/406479.swf
+- For GUI interface : **ArcadeFlashWeb.exe** *--ppapi-flash-path=./pepflashplayer.dll*
+- For Command line (SWF local) : **ArcadeFlashWeb.exe** *--ppapi-flash-path=./pepflashplayer.dll* *C:/Users/AureyoBoss/Downloads/phoenotopia.swf*
+- For Command line (SWF on internet) : **ArcadeFlashWeb.exe** *--ppapi-flash-path=./pepflashplayer.dll* *https://www.diena.lt/sites/default/files/games/406479.swf*
 
 ## Download
 Beta is very soon (this weekend - 13 or 14 March 2021) !
