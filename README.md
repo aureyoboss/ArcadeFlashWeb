@@ -17,7 +17,7 @@ With ArcadeFlashWeb it is therefore possible to play Flash in 2021! :tada:
 * [x] Add shortcuts in file browser (My documents, Downloads, Desktop, Home and Drive letter assignment).
 * [ ] Add hotkeys to quit the software (on keyboard and gamepad).
 * [ ] Tests.
-* [ ] Upload the software.
+* [ ] Upload the software on Github.
 * [ ] Code source on Github.
 
 ## How work
