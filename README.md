@@ -8,6 +8,8 @@ Versions : command line (perfect for Arcade Cabinet) and GUI.
 
 With ArcadeFlashWeb it is therefore possible to play Flash in 2021! :tada:
 
+To work, need [Visual C++ 2017 x32](https://support.microsoft.com/fr-fr/topic/derniers-t%C3%A9l%C3%A9chargements-pris-en-charge-de-visual-c-2647da03-1eea-4433-9aff-95f26a218cc0 "").
+
 ## ToDoList
 * [x] Play SWF without installing Flash Player.
 * [x] Create GUI interface.
@@ -15,19 +17,22 @@ With ArcadeFlashWeb it is therefore possible to play Flash in 2021! :tada:
 * [x] Play SWF and open internet adress with command line.
 * [x] Create a file browser.
 * [x] Add shortcuts in file browser (My documents, Downloads, Desktop, Home and Drive letter assignment).
-* [ ] Add hotkeys to quit the software (on keyboard and gamepad).
-* [ ] Tests.
-* [ ] Upload the software on Github.
+* [x] Add hotkeys to quit the software (keyboard 'ESC').
+* [x] Tests.
+* [x] Upload the software on Github.
 * [ ] Code source on Github.
 
 ## How work
-- For GUI interface : **ArcadeFlashWeb.exe** *--ppapi-flash-path=./pepflashplayer.dll*
-- For Command line (SWF local) : **ArcadeFlashWeb.exe** *--ppapi-flash-path=./pepflashplayer.dll* *C:/Users/AureyoBoss/Downloads/phoenotopia.swf*
-- For Command line (SWF on internet) : **ArcadeFlashWeb.exe** *--ppapi-flash-path=./pepflashplayer.dll* *https://www.diena.lt/sites/default/files/games/406479.swf*
+- For GUI interface : **ArcadeFlashWeb.exe**
+- For Command line (SWF local) : **ArcadeFlashWeb.exe** *C:/Users/AureyoBoss/Downloads/phoenotopia.swf*
+- For Command line (SWF on internet) : **ArcadeFlashWeb.exe** *https://www.diena.lt/sites/default/files/games/406479.swf*
 
 ## Download
-Beta is very soon (this weekend - 13 or 14 March 2021) !
+This project is available in the [EXE directory](https://github.com/aureyoboss/ArcadeFlashWeb/tree/main/exe "").
 
-![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/Flash_RetroBat_AureyoBoss_01.jpg?raw=true)
-![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/Flash_RetroBat_AureyoBoss_02.jpg?raw=true)
-![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/Flash_RetroBat_AureyoBoss_03.jpg?raw=true)
+![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_01.jpg?raw=true)
+![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_02.jpg?raw=true)
+![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_03.jpg?raw=true)
+![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_04.jpg?raw=true)
+![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_05.jpg?raw=true)
+![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_06.jpg?raw=true)
