@@ -18,6 +18,9 @@ To work, need [Visual C++ 2017 x32](https://support.microsoft.com/fr-fr/topic/de
 * [x] Create a file browser.
 * [x] Add shortcuts in file browser (My documents, Downloads, Desktop, Home and Drive letter assignment).
 * [x] Add hotkeys to quit the software (keyboard 'ESC').
+* [x] If the Flash games can save your progress. The software saves your data in *C:\Users\Your Name Session\AppData\Local\ArcadeFlashWeb\QtWebEngine*.
+* [ ] Automatically load a game profile from **AntiMicro** by Command line (you must create before your profile for each Flash games in AntiMicro). The software will close automatically **AntiMicro** when quit ArcadeFlashWeb.
+* [ ] Possibility to indicate in Command line the native resolution of a Flash (SWF) file.
 * [x] Tests.
 * [x] Upload the software on Github.
 * [ ] Code source on Github.
