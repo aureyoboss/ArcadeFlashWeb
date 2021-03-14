@@ -1,8 +1,7 @@
 # ArcadeFlashWeb (BETA)
 **ArcadeFlashWeb** is a easy program to **play local/internet Flash Games (SWF)**, **without installing Flash Player** (works despite the end of Flash). 😎
-It's work on Windows 7, 8, 8.1 and 10.
 
-To control the mouse cursor and click with a gamepad, use [AntiMicro](https://github.com/AntiMicro/antimicro "AntiMicro's Homepage").
+💻 It's work on **Windows 7**, **8**, **8.1** and **10**. To control the mouse cursor and click with a gamepad, use [AntiMicro](https://github.com/AntiMicro/antimicro "AntiMicro's Homepage").
 
 Versions : command line (perfect for Arcade Cabinet) and GUI.
 
