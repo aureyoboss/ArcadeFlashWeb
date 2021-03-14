@@ -24,7 +24,7 @@ To work, need [Visual C++ 2017 x32](https://support.microsoft.com/fr-fr/topic/de
 * [ ] Possibility to indicate in Command line the native resolution of a Flash (SWF) file.
 * [x] Possibility to hide menu bar (auto hide after 5 seconds).
 * [ ] See if it is technically possible to make the software compatible with PadToKey.
-* [x] Add scanelines over the game screen.
+* [x] Add scanlines over the game screen.
 * [x] Tests.
 * [x] Upload the software on Github.
 * [ ] Code source on Github.
