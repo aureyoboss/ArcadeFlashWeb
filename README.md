@@ -15,7 +15,7 @@ With **ArcadeFlashWeb** it is therefore possible to play Flash in 2021! :tada:
 
 ## How work
 - GUI interface : **ArcadeFlashWeb.exe**
-- Command line exemple (SWF local) : **ArcadeFlashWeb.exe** *-source:C:/Users/AureyoBoss/Downloads/phoenotopia.swf -swfwidth:900 -swfheight:600 -profilantimicro:ArcadeFlashWeb.gamecontroller.amgp*
+- Command line exemple (SWF local) : **ArcadeFlashWeb.exe** *-source:C:/Users/AureyoBoss/Downloads/phoenotopia.swf -swfwidth:900 -swfheight:600 -profilantimicro:arcadeflashweb.gamecontroller.amgp*
 - Command line (SWF on internet) : **ArcadeFlashWeb.exe** *https://www.diena.lt/sites/default/files/games/406479.swf*
 
 ## Command line explanation
@@ -23,7 +23,7 @@ With **ArcadeFlashWeb** it is therefore possible to play Flash in 2021! :tada:
 - **-swfwidth:** *Specify the **natural width** of the SWF file (example : -swfwidth:900).*
 - **-swfheight:** *Specify the **natural width** of the SWF file (example : -swfheight:600).*
 - **-savedataflash:** *Specify the path to **save game data of the Flash** file (example : -savedataflash:D:/RetroBat/Flash).*
-- **-profilantimicro:** *Specify the **profile** you want to use in **AntiMicro**. The profile must be present in **/ArcadeFlashWeb/antimicro/profiles** (example : -profilantimicro:ArcadeFlashWeb.gamecontroller.amgp).*
+- **-profilantimicro:** *Specify the **profile** you want to use in **AntiMicro**. The profile must be present in **/ArcadeFlashWeb/antimicro/profiles** (example : -profilantimicro:arcadeflashweb.gamecontroller.amgp).*
 - **-controleurantimicro:** *Apply configuration file **AntiMicro** to a specific controller, indicate **GUID** of your controller.*
 - **-profilpadtokey:** *Reserved command for **Pad2Key** (RetroBat).*
 - **-screentype:** *To simulate a CRT screen, specify **crt**. To simulate Scanlines, specify **scanlines** (example : -screentype:crt).*
@@ -38,12 +38,12 @@ With **ArcadeFlashWeb** it is therefore possible to play Flash in 2021! :tada:
 * [x] Add shortcuts in file browser (My documents, Downloads, Desktop, Home and Drive letter assignment).
 * [x] Add hotkeys to quit the software (keyboard 'ESC').
 * [x] If the Flash games can save your progress. The software saves your data in *C:\Users\Your Name Session\AppData\Local\ArcadeFlashWeb\QtWebEngine*.
-* [x] Automatically load a game profile from **AntiMicro** by Command line (you must create before your profile for each Flash games in AntiMicro). The software will close automatically **AntiMicro** when quit ArcadeFlashWeb.
-* [x] Possibility to indicate in Command line the native resolution of a Flash (SWF) file.
-* [x] Possibility to hide menu bar (auto hide after 5 seconds).
-* [X] Read natural dimension of the Flash game and adapt this to the screen.
-* [X] Add scanlines or CRT mode over the game screen with command line.
 * [X] Possibility of indicating a personalized directory (free in writing, without administrator rights), to save your Flash data progress.
+* [x] Possibility to load a game profile from **AntiMicro** by Command line (you must create before your profile for each Flash games in AntiMicro). The software will close automatically **AntiMicro** when quit ArcadeFlashWeb.
+* [x] Possibility to indicate in Command line the native resolution of a Flash (SWF) file.
+* [x] Possibility to hide menu bar (auto hide after 5 seconds when load SWF file by command line).
+* [X] Read native dimension of the Flash game and adapt this to the screen.
+* [X] Add scanlines or CRT mode over the game screen with command line.
 * [ ] See if it is technically possible to make the software compatible with PadToKey.
 * [ ] Tests.
 * [ ] Upload the software on Github.
