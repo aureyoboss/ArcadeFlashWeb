@@ -11,6 +11,10 @@ With **ArcadeFlashWeb** it is therefore possible to play Flash in 2021! :tada:
 
 ⚠ **As the software is in BETA version, the command lines may change.**
 
+## Languages
+- French.
+- English.
+
 ## ToDoList
 * [x] Play SWF without installing Flash Player.
 * [x] Create GUI interface.
@@ -25,7 +29,7 @@ With **ArcadeFlashWeb** it is therefore possible to play Flash in 2021! :tada:
 * [x] Possibility to indicate in Command line the native resolution of a Flash (SWF) file.
 * [x] Possibility to hide menu bar (auto hide after 5 seconds).
 * [X] Read natural dimension of the Flash game and adapt this to the screen.
-* [X] Add scanlines over the game screen with command line.
+* [X] Add scanlines or CRT mode over the game screen with command line.
 * [ ] Possibility of indicating a personalized directory (free in writing, without administrator rights), to save your Flash progress.
 * [ ] See if it is technically possible to make the software compatible with PadToKey.
 * [ ] Tests.
@@ -33,9 +37,9 @@ With **ArcadeFlashWeb** it is therefore possible to play Flash in 2021! :tada:
 * [ ] Code source on Github.
 
 ## How work
-- For GUI interface : **ArcadeFlashWeb.exe**
-- For Command line exemple (SWF local) : **ArcadeFlashWeb.exe** *-source:C:/Users/AureyoBoss/Downloads/phoenotopia.swf -swfwidth:900 -swfheight:600 -savedataflash: -profilantimicro:ArcadeFlashWeb.gamecontroller.amgp -controleurantimicro: -profilpadtokey: -screentype:*
-- For Command line (SWF on internet) : **ArcadeFlashWeb.exe** *https://www.diena.lt/sites/default/files/games/406479.swf*
+- GUI interface : **ArcadeFlashWeb.exe**
+- Command line exemple (SWF local) : **ArcadeFlashWeb.exe** *-source:C:/Users/AureyoBoss/Downloads/phoenotopia.swf -swfwidth:900 -swfheight:600 -savedataflash: -profilantimicro:ArcadeFlashWeb.gamecontroller.amgp -controleurantimicro: -profilpadtokey: -screentype:*
+- Command line (SWF on internet) : **ArcadeFlashWeb.exe** *https://www.diena.lt/sites/default/files/games/406479.swf*
 
 ## Command line explanation
 - **-source:** *Specify the path of the SWF file (example : -source:C:/Users/AureyoBoss/Downloads/phoenotopia.swf).*
