@@ -50,7 +50,7 @@ With **ArcadeFlashWeb** it is therefore possible to play Flash in 2021! :tada:
 * [ ] Code source on Github.
 
 ## Flash games
-🕹 Flash games are present in the « Games » directory.
+🕹 Somes games Flash are present in the « *Games* » directory.
 
 ## Download
 👉 To work, need [Visual C++ 2017 x32](https://support.microsoft.com/fr-fr/topic/derniers-t%C3%A9l%C3%A9chargements-pris-en-charge-de-visual-c-2647da03-1eea-4433-9aff-95f26a218cc0 "").
