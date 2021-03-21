@@ -20,14 +20,15 @@ With **ArcadeFlashWeb** it is therefore possible to play Flash in 2021! :tada:
 * [x] Add shortcuts in file browser (My documents, Downloads, Desktop, Home and Drive letter assignment).
 * [x] Add hotkeys to quit the software (keyboard 'ESC').
 * [x] If the Flash games can save your progress. The software saves your data in *C:\Users\Your Name Session\AppData\Local\ArcadeFlashWeb\QtWebEngine*.
-* [ ] Possibility of indicating a personalized directory (free in writing, without administrator rights), to save your Flash progress.
 * [x] Automatically load a game profile from **AntiMicro** by Command line (you must create before your profile for each Flash games in AntiMicro). The software will close automatically **AntiMicro** when quit ArcadeFlashWeb.
 * [x] Possibility to indicate in Command line the native resolution of a Flash (SWF) file.
 * [x] Possibility to hide menu bar (auto hide after 5 seconds).
+* [X] Read natural dimension of the Flash game and adapt this to the screen.
+* [X] Add scanlines over the game screen with command line.
+* [ ] Possibility of indicating a personalized directory (free in writing, without administrator rights), to save your Flash progress.
 * [ ] See if it is technically possible to make the software compatible with PadToKey.
-* [x] Add scanlines over the game screen.
-* [x] Tests.
-* [x] Upload the software on Github.
+* [ ] Tests.
+* [ ] Upload the software on Github.
 * [ ] Code source on Github.
 
 ## How work
