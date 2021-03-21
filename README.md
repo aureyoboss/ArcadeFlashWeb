@@ -15,7 +15,7 @@ With **ArcadeFlashWeb** it is therefore possible to play Flash in 2021! :tada:
 
 ## How work
 - GUI interface : **ArcadeFlashWeb.exe**
-- Command line exemple (SWF local) : **ArcadeFlashWeb.exe** *-source:C:/Users/AureyoBoss/Downloads/phoenotopia.swf -swfwidth:900 -swfheight:600 -savedataflash: -profilantimicro:ArcadeFlashWeb.gamecontroller.amgp -controleurantimicro: -profilpadtokey: -screentype:*
+- Command line exemple (SWF local) : **ArcadeFlashWeb.exe** *-source:C:/Users/AureyoBoss/Downloads/phoenotopia.swf -swfwidth:900 -swfheight:600 -profilantimicro:ArcadeFlashWeb.gamecontroller.amgp*
 - Command line (SWF on internet) : **ArcadeFlashWeb.exe** *https://www.diena.lt/sites/default/files/games/406479.swf*
 
 ## Command line explanation
