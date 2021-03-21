@@ -43,7 +43,7 @@ With **ArcadeFlashWeb** it is therefore possible to play Flash in 2021! :tada:
 * [x] Possibility to hide menu bar (auto hide after 5 seconds).
 * [X] Read natural dimension of the Flash game and adapt this to the screen.
 * [X] Add scanlines or CRT mode over the game screen with command line.
-* [X] Possibility of indicating a personalized directory (free in writing, without administrator rights), to save your Flash progress.
+* [X] Possibility of indicating a personalized directory (free in writing, without administrator rights), to save your Flash data progress.
 * [ ] See if it is technically possible to make the software compatible with PadToKey.
 * [ ] Tests.
 * [ ] Upload the software on Github.
