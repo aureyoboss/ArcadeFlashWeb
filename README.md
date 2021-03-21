@@ -19,12 +19,12 @@ With **ArcadeFlashWeb** it is therefore possible to play Flash in 2021! :tada:
 - Command line (SWF on internet) : **ArcadeFlashWeb.exe** *https://www.diena.lt/sites/default/files/games/406479.swf*
 
 ## Command line explanation
-- **-source:** *Specify the path of the SWF file (example : -source:C:/Users/AureyoBoss/Downloads/phoenotopia.swf).*
-- **-swfwidth:** *Specify the natural width of the SWF file (example : -swfwidth:900).*
-- **-swfheight:** *Specify the natural width of the SWF file (example : -swfheight:600).*
-- **-savedataflash:** *Specify the path to save game data of the Flash file (example : -savedataflash:D:/RetroBat/Flash).*
-- **-profilantimicro:** *Specify the profile you want to use in AntiMicro. The profile must be present in /ArcadeFlashWeb/antimicro/profiles.*
-- **-controleurantimicro:** *Apply configuration file AntiMicro to a specific controller, indicate **GUID** of your controller.*
+- **-source:** *Specify the **path of the SWF** file (example : -source:C:/Users/AureyoBoss/Downloads/phoenotopia.swf).*
+- **-swfwidth:** *Specify the **natural width** of the SWF file (example : -swfwidth:900).*
+- **-swfheight:** *Specify the **natural width** of the SWF file (example : -swfheight:600).*
+- **-savedataflash:** *Specify the path to **save game data of the Flash** file (example : -savedataflash:D:/RetroBat/Flash).*
+- **-profilantimicro:** *Specify the **profile** you want to use in **AntiMicro**. The profile must be present in **/ArcadeFlashWeb/antimicro/profiles** (example : -profilantimicro:ArcadeFlashWeb.gamecontroller.amgp).*
+- **-controleurantimicro:** *Apply configuration file **AntiMicro** to a specific controller, indicate **GUID** of your controller.*
 - **-profilpadtokey:** *Reserved command for **Pad2Key** (RetroBat).*
 - **-screentype:** *To simulate a CRT screen, specify **crt**. To simulate Scanlines, specify **scanlines** (example : -screentype:crt).*
 
