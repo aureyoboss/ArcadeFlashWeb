@@ -44,6 +44,7 @@ With **ArcadeFlashWeb** it is therefore possible to play Flash in 2021! :tada:
 * [x] Possibility to hide menu bar (auto hide after 5 seconds when load SWF file by command line).
 * [X] Read native dimension of the Flash game and adapt this to the screen.
 * [X] Add scanlines or CRT mode over the game screen with command line.
+* [X] Add a small mouse cursor (red dot) on game zone (on the Arcade Cabinet, this avoids connecting a mouse).
 * [ ] See if it is technically possible to make the software compatible with PadToKey.
 * [ ] Tests.
 * [ ] Upload the software on Github.
