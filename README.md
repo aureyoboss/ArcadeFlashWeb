@@ -14,6 +14,7 @@ With **ArcadeFlashWeb** it is therefore possible to play Flash in 2021! :tada:
 ## ToDoList
 * [x] Play SWF without installing Flash Player.
 * [x] Create GUI interface.
+* [X] French and english interface.
 * [x] Run in fullscreen.
 * [x] Play SWF and open internet adress with command line.
 * [x] Create a file browser.
@@ -33,11 +34,21 @@ With **ArcadeFlashWeb** it is therefore possible to play Flash in 2021! :tada:
 
 ## How work
 - For GUI interface : **ArcadeFlashWeb.exe**
-- For Command line (SWF local) : **ArcadeFlashWeb.exe** *C:/Users/AureyoBoss/Downloads/phoenotopia.swf*
+- For Command line exemple (SWF local) : **ArcadeFlashWeb.exe** *-source:C:/Users/AureyoBoss/Downloads/phoenotopia.swf -swfwidth:900 -swfheight:600 -savedataflash: -profilantimicro:ArcadeFlashWeb.gamecontroller.amgp -controleurantimicro: -profilpadtokey: -screentype:*
 - For Command line (SWF on internet) : **ArcadeFlashWeb.exe** *https://www.diena.lt/sites/default/files/games/406479.swf*
 
+## Command line explanation
+- **-source:** *Specify the path of the SWF file (example : -source:C:/Users/AureyoBoss/Downloads/phoenotopia.swf).*
+- **-swfwidth:** *Specify the natural width of the SWF file.*
+- **-swfheight:** *Specify the natural width of the SWF file.*
+- **-savedataflash:** *Specify the path to save game data of the Flash file (example : -savedataflash:D:/RetroBat/Flash).*
+- **-profilantimicro:** *Specify the profile you want to use in AntiMicro. The profile must be present in /ArcadeFlashWeb/antimicro/profiles.*
+- **-controleurantimicro:** *Apply configuration file AntiMicro to a specific controller, indicate **GUID** of your controller.*
+- **-profilpadtokey:** *Reserved command for **Pad2Key** (RetroBat).*
+- **-screentype:** *To simulate a CRT screen, specify **crt**. To simulate Scanlines, specify **scanlines** (example : -screentype:crt).*
+
 ## Download
-This project is available in the [EXE directory](https://github.com/aureyoboss/ArcadeFlashWeb/tree/main/exe "").
+The project will be available again soon.
 
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_01.jpg?raw=true)
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_02.jpg?raw=true)
