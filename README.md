@@ -47,8 +47,8 @@ Works on 100% Flash games ! 👍
 * [X] Add scanlines or CRT mode over the game screen with command line and click icon on GUI.
 * [X] Add a small mouse cursor (red dot) on game zone (on the Arcade Cabinet, this avoids connecting a mouse).
 * [ ] See if it is technically possible to make the software compatible with PadToKey.
-* [ ] Tests.
-* [ ] Upload the software on Github.
+* [X] Tests.
+* [X] Upload the software on Github.
 * [ ] Upload the code source on Github.
 
 ## Flash games
