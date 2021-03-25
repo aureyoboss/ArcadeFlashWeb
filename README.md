@@ -42,7 +42,7 @@ Works on 100% Flash games ! 👍
 * [X] Possibility of indicating a personalized directory (free in writing, without administrator rights), to save your Flash data progress.
 * [x] Possibility to load a game profile from **AntiMicro** by Command line (you must create before your profile for each Flash games in AntiMicro). The software will close automatically **AntiMicro** when quit ArcadeFlashWeb.
 * [x] Possibility to indicate in Command line the native resolution of a Flash (SWF) file.
-* [x] Possibility to hide menu bar (auto hide after 5 seconds when load SWF file by command line).
+* [x] Possibility to hide menu bar (auto hide after 5 seconds when load SWF file from a command line).
 * [X] Read native dimension of the Flash game and adapt this to the screen.
 * [X] Add scanlines or CRT mode over the game screen with command line and click icon on GUI.
 * [X] Add a small mouse cursor (red dot) on game zone (on the Arcade Cabinet, this avoids connecting a mouse).
@@ -52,12 +52,12 @@ Works on 100% Flash games ! 👍
 * [ ] Upload the code source on Github.
 
 ## Flash games
-🕹 Somes Flash games are present in « *Games* » directory.
+🕹 Somes Flash games are present in « *[Games](https://github.com/aureyoboss/ArcadeFlashWeb/tree/main/games "")* » directory.
 
 ## Download
 👉 To work, need [Visual C++ 2017 x32](https://support.microsoft.com/fr-fr/topic/derniers-t%C3%A9l%C3%A9chargements-pris-en-charge-de-visual-c-2647da03-1eea-4433-9aff-95f26a218cc0 "").
 
-The project is available in [EXE](https://github.com/aureyoboss/ArcadeFlashWeb/tree/main/EXE "") folder.
+The project is available in « *[EXE](https://github.com/aureyoboss/ArcadeFlashWeb/tree/main/EXE "")* » folder.
 
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_07.jpg?raw=true)
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_08.jpg?raw=true)
