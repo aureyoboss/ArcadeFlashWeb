@@ -52,7 +52,7 @@ Works on 100% Flash games ! 👍
 * [ ] Upload the code source on Github.
 
 ## Flash games
-🕹 Somes Flash games are present in « *[Games](https://github.com/aureyoboss/ArcadeFlashWeb/tree/main/games "")* » directory.
+🕹 Somes Flash games are present in « *[Games](https://github.com/aureyoboss/ArcadeFlashWeb/tree/main/games "")* » folder.
 
 ## Download
 👉 To work, need [Visual C++ 2017 x32](https://support.microsoft.com/fr-fr/topic/derniers-t%C3%A9l%C3%A9chargements-pris-en-charge-de-visual-c-2647da03-1eea-4433-9aff-95f26a218cc0 "").
