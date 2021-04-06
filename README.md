@@ -27,7 +27,7 @@ Works on 100% Flash games ! 👍
 - **-profilantimicro:** *Specify the **profile** you want to use in **AntiMicro**. The profile must be present in **/ArcadeFlashWeb/antimicro/profiles** (example : -profilantimicro:arcadeflashweb.gamecontroller.amgp).*
 - **-controleurantimicro:** *Apply configuration file **AntiMicro** to a specific controller, indicate **GUID** of your controller.*
 - **-profilpadtokey:** *Reserved command for **Pad2Key** (RetroBat).*
-- **-screentype:** *To simulate a CRT screen, specify **crt**. To simulate Scanlines, specify **scanlines** (example : -screentype:crt).*
+- **-screentype:** *To simulate a CRT screen, specify **crt** (example : -screentype:crt). To simulate Scanlines, specify **scanlines** (example : -screentype:scanlines).*
 
 ## ToDoList
 * [x] Play SWF without installing Flash Player.
