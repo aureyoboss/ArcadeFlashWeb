@@ -28,6 +28,7 @@ Works on 100% Flash games ! 👍
 - **-controleurantimicro:** *Apply configuration file **AntiMicro** to a specific controller, indicate **GUID** of your controller.*
 - **-profilpadtokey:** *Reserved command for **Pad2Key** (RetroBat).*
 - **-screentype:** *To simulate a CRT screen, specify **crt** (example : -screentype:crt). To simulate Scanlines, specify **scanlines** (example : -screentype:scanlines).*
+- **-fullscreen:** *To lauch Flash game in fullscreen.*
 
 ## ToDoList
 * [x] Play SWF without installing Flash Player.
@@ -47,6 +48,8 @@ Works on 100% Flash games ! 👍
 * [X] Add scanlines or CRT mode over the game screen with command line and click icon on GUI.
 * [X] Add a small mouse cursor (red dot) on game zone (on the Arcade Cabinet, this avoids connecting a mouse).
 * [X] Command line work with **slash** or **backslash** (**f.caruso's** wish).
+* [X] Add command line to start game in fullscreen (-fullscreen).  **f.caruso's** wish.
+* [ ] Show Bezel over Flash game (**f.caruso's** and **lorenzolamas** wish).
 * [X] Tests.
 * [X] Upload the software on Github.
 * [ ] Upload the code source on Github.
