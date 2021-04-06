@@ -1,4 +1,4 @@
-# ArcadeFlashWeb (BETA)
+# ArcadeFlashWeb
 🎮 **ArcadeFlashWeb** is a easy program to **play local/internet Flash Games (SWF)**, **without installing Flash Player** (works despite the end of Flash).
 
 💻 It's work on **Windows 7**, **8**, **8.1** and **10**. To control the mouse cursor and click with a gamepad, it use [AntiMicro](https://github.com/AntiMicro/antimicro "AntiMicro's Homepage").
@@ -16,7 +16,7 @@ Works on 100% Flash games ! 👍
 
 ## How work
 - GUI interface : **ArcadeFlashWeb.exe**
-- Command line exemple (SWF local) : **ArcadeFlashWeb.exe** *-source:C:/Users/AureyoBoss/Downloads/phoenotopia.swf -swfwidth:900 -swfheight:600 -profilantimicro:arcadeflashweb.gamecontroller.amgp*
+- Command line exemple (SWF local) : **ArcadeFlashWeb.exe** *-source:C:/Users/AureyoBoss/Downloads/phoenotopia.swf -swfwidth:900 -swfheight:600
 - Command line (SWF on internet) : **ArcadeFlashWeb.exe** *https://www.diena.lt/sites/default/files/games/406479.swf*
 
 ## Command line explanation
@@ -46,7 +46,7 @@ Works on 100% Flash games ! 👍
 * [X] Read native dimension of the Flash game and adapt this to the screen.
 * [X] Add scanlines or CRT mode over the game screen with command line and click icon on GUI.
 * [X] Add a small mouse cursor (red dot) on game zone (on the Arcade Cabinet, this avoids connecting a mouse).
-* [ ] See if it is technically possible to make the software compatible with PadToKey.
+* [X] Command line work with **slash** and **backslash** (**f.caruso's** wish).
 * [X] Tests.
 * [X] Upload the software on Github.
 * [ ] Upload the code source on Github.
@@ -57,7 +57,7 @@ Works on 100% Flash games ! 👍
 ## Download
 👉 To work, need [Visual C++ 2017 x32](https://support.microsoft.com/fr-fr/topic/derniers-t%C3%A9l%C3%A9chargements-pris-en-charge-de-visual-c-2647da03-1eea-4433-9aff-95f26a218cc0 "").
 
-The project is available in « *[EXE](https://github.com/aureyoboss/ArcadeFlashWeb/tree/main/EXE "")* » folder.
+The project is available in « *[Releases](https://github.com/aureyoboss/ArcadeFlashWeb/releases/tag/v1.0 "")* » folder.
 
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_07.jpg?raw=true)
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_08.jpg?raw=true)
