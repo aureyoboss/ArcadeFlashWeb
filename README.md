@@ -57,7 +57,7 @@ Works on 100% Flash games ! 👍
 ## Download
 👉 To work, need [Visual C++ 2017 x32](https://support.microsoft.com/fr-fr/topic/derniers-t%C3%A9l%C3%A9chargements-pris-en-charge-de-visual-c-2647da03-1eea-4433-9aff-95f26a218cc0 "").
 
-The project is available in « *[Releases](https://github.com/aureyoboss/ArcadeFlashWeb/releases/tag/v1.0 "")* » folder.
+To download **ArcadeFlashWeb** go to « *[Releases](https://github.com/aureyoboss/ArcadeFlashWeb/releases/tag/v1.0 "")* » folder.
 
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_07.jpg?raw=true)
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_08.jpg?raw=true)
