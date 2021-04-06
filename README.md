@@ -48,7 +48,7 @@ Works on 100% Flash games ! 👍
 * [X] Add scanlines or CRT mode over the game screen with command line and click icon on GUI.
 * [X] Add a small mouse cursor (red dot) on game zone (on the Arcade Cabinet, this avoids connecting a mouse).
 * [X] Command line work with **slash** or **backslash** (**f.caruso's** wish).
-* [X] Add command line to start game in fullscreen (-fullscreen).  **f.caruso's** wish.
+* [X] Add command line to start game in fullscreen « *-fullscreen* » (**f.caruso's** wish).
 * [ ] Show Bezel over Flash game (**f.caruso's** and **lorenzolamas** wish).
 * [X] Tests.
 * [X] Upload the software on Github.
