@@ -46,7 +46,7 @@ Works on 100% Flash games ! 👍
 * [X] Read native dimension of the Flash game and adapt this to the screen.
 * [X] Add scanlines or CRT mode over the game screen with command line and click icon on GUI.
 * [X] Add a small mouse cursor (red dot) on game zone (on the Arcade Cabinet, this avoids connecting a mouse).
-* [X] Command line work with **slash** and **backslash** (**f.caruso's** wish).
+* [X] Command line work with **slash** or **backslash** (**f.caruso's** wish).
 * [X] Tests.
 * [X] Upload the software on Github.
 * [ ] Upload the code source on Github.
