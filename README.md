@@ -16,7 +16,7 @@ Works on 100% Flash games ! 👍
 
 ## How work
 - GUI interface : **ArcadeFlashWeb.exe**
-- Command line exemple (SWF local) : **ArcadeFlashWeb.exe** *-source:C:/Users/AureyoBoss/Downloads/phoenotopia.swf -swfwidth:900 -swfheight:600
+- Command line exemple (SWF local) : **ArcadeFlashWeb.exe** *-source:C:/Users/AureyoBoss/Downloads/phoenotopia.swf -swfwidth:900 -swfheight:600*
 - Command line (SWF on internet) : **ArcadeFlashWeb.exe** *https://www.diena.lt/sites/default/files/games/406479.swf*
 
 ## Command line explanation
