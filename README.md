@@ -16,11 +16,11 @@ Works on 100% Flash games ! 👍
 
 ## How work
 - GUI interface : **ArcadeFlashWeb.exe**
-- Command line exemple (SWF on local) : **ArcadeFlashWeb.exe** *-source:C:/Users/AureyoBoss/Downloads/phoenotopia.swf -swfwidth:900 -swfheight:600*
-- Command line (SWF on internet) : **ArcadeFlashWeb.exe** *-source:https://www.diena.lt/sites/default/files/games/406479.swf*
+- Command line exemple (SWF on local) : **ArcadeFlashWeb.exe** *-source:"C:/Users/AureyoBoss/Downloads/phoenotopia.swf" -swfwidth:900 -swfheight:600*
+- Command line (SWF on internet) : **ArcadeFlashWeb.exe** *-source:"https://www.diena.lt/sites/default/files/games/406479.swf"*
 
 ## Command line explanation
-- **-source:** - *Specify the **path of the SWF** file (example : -source:C:/Users/AureyoBoss/Downloads/phoenotopia.swf).*
+- **-source:** - *Specify the **path of the SWF** file (example : -source:"C:/Users/AureyoBoss/Downloads/phoenotopia.swf").*
 - **-swfwidth:** - *Specify the **natural width** of the SWF file (example : -swfwidth:900).*
 - **-swfheight:** - *Specify the **natural width** of the SWF file (example : -swfheight:600).*
 - **-savedataflash:** - *Specify the path to **save game data of the Flash** file (example : -savedataflash:D:/RetroBat/Flash).*
