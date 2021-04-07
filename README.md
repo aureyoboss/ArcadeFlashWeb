@@ -26,9 +26,9 @@ Works on 100% Flash games ! 👍
 - **-savedataflash:** *Specify the path to **save game data of the Flash** file (example : -savedataflash:D:/RetroBat/Flash).*
 - **-profilantimicro:** *Specify the **profile** you want to use in **AntiMicro**. The profile must be present in **/ArcadeFlashWeb/antimicro/profiles** (example : -profilantimicro:arcadeflashweb.gamecontroller.amgp).*
 - **-controleurantimicro:** *Apply configuration file **AntiMicro** to a specific controller, indicate **GUID** of your controller.*
-- **-profilpadtokey:** *Reserved command for **Pad2Key** (RetroBat).*
 - **-screentype:** *To simulate a CRT screen, specify **crt** (example : -screentype:crt). To simulate Scanlines, specify **scanlines** (example : -screentype:scanlines).*
-- **-fullscreen:** *To lauch Flash game in fullscreen.*
+- **-fullscreen** *To lauch Flash game in fullscreen.*
+- **-nodatetime** *Remove date and time on the screen.*
 
 ## ToDoList
 * [x] Play SWF without installing Flash Player.
@@ -49,7 +49,7 @@ Works on 100% Flash games ! 👍
 * [X] Add a small mouse cursor (red dot) on game zone (on the Arcade Cabinet, this avoids connecting a mouse).
 * [X] Command line work with **slash** or **backslash** (**f.caruso's** wish).
 * [X] Add command line to start game in fullscreen « *-fullscreen* » (**f.caruso's** wish).
-* [ ] Show Bezel over Flash game (**f.caruso's** and **lorenzolamas** wish).
+* [X] Show Bezel over Flash game (**f.caruso's** and **lorenzolamas** wish).
 * [X] Tests.
 * [X] Upload the software on Github.
 * [ ] Upload the code source on Github.
