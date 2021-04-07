@@ -29,7 +29,7 @@ Works on 100% Flash games ! 👍
 - **-screentype:** > *To simulate a CRT screen, specify **crt** (example : -screentype:crt). To simulate Scanlines, specify **scanlines** (example : -screentype:scanlines).*
 - **-fullscreen** > *To lauch Flash game in fullscreen.*
 - **-nodatetime** > *Remove date and time on the screen.*
-- **-picturesfolder:** > *Specify the path to save **screenshots** files (default : « Pictures » folder). Example : -picturesfolder:"D:/RetroBat/Screenshots".**
+- **-picturesfolder:** > *Specify the path to save **screenshots** files (default : « Pictures » folder). Example : -picturesfolder:"D:/RetroBat/Screenshots".*
 - **-?** or **-help** > *Show command line.*
 
 ## ToDoList
