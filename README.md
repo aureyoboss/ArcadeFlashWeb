@@ -23,7 +23,7 @@ Works on 100% Flash games ! 👍
 - **-source:** - *Specify the **path of the SWF** file (example : -source:"C:/Users/AureyoBoss/Downloads/phoenotopia.swf").*
 - **-swfwidth:** - *Specify the **natural width** of the SWF file (example : -swfwidth:900).*
 - **-swfheight:** - *Specify the **natural width** of the SWF file (example : -swfheight:600).*
-- **-savedataflash:** - *Specify the path to **save game data of the Flash** file (example : -savedataflash:D:/RetroBat/Flash).*
+- **-savedataflash:** - *Specify the path to **save game data of the Flash** file (example : -savedataflash:"D:/RetroBat/Flash").*
 - **-profilantimicro:** - *Specify the **profile** you want to use in **AntiMicro**. The profile must be present in **/ArcadeFlashWeb/antimicro/profiles** (example : -profilantimicro:arcadeflashweb.gamecontroller.amgp).*
 - **-controleurantimicro:** - *Apply configuration file **AntiMicro** to a specific controller, indicate **GUID** of your controller.*
 - **-screentype:** - *To simulate a CRT screen, specify **crt** (example : -screentype:crt). To simulate Scanlines, specify **scanlines** (example : -screentype:scanlines).*
