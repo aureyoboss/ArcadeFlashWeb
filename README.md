@@ -29,6 +29,7 @@ Works on 100% Flash games ! 👍
 - **-screentype:** > *To simulate a CRT screen, specify **crt** (example : -screentype:crt). To simulate Scanlines, specify **scanlines** (example : -screentype:scanlines).*
 - **-fullscreen** > *To lauch Flash game in fullscreen.*
 - **-nodatetime** > *Remove date and time on the screen.*
+- **-picturesfolder:** > *Specify the path to save **screenshots** files (default : « Pictures » folder). Example : -picturesfolder:"D:/RetroBat/Screenshots".**
 - **-?** or **-help** > *Show command line.*
 
 ## ToDoList
@@ -51,7 +52,7 @@ Works on 100% Flash games ! 👍
 * [X] Command line work with **slash** or **backslash** (**f.caruso's** wish).
 * [X] Add command line to start game in fullscreen « *-fullscreen* » (**f.caruso's** wish).
 * [X] Show Bezel over Flash game (**f.caruso's** and **lorenzolamas** wish). You can turn it off.
-* [X] Possibility to make a screenshot (**f.caruso's** wish) to **Pictures folder**.
+* [X] Possibility to make a screenshot (**f.caruso's** wish) to **Pictures folder** and specify a folder by command line.
 * [X] Tests.
 * [ ] Upload the software on Github.
 * [ ] Upload the code source on Github.
