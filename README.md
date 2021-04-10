@@ -3,8 +3,8 @@
 
 💻 It's work on **Windows 7**, **8**, **8.1** and **10**. To control the mouse cursor and click with a gamepad, it use [AntiMicro](https://github.com/AntiMicro/antimicro "AntiMicro's Homepage").
 
-With **ArcadeFlashWeb** it is therefore possible to play Flash in 2021! :tada:
-Works on 100% Flash games ! 👍
+:tada: With **ArcadeFlashWeb** it is therefore possible to play Flash in 2021!
+👍 **Works on 100% Flash games!**
 
 ## Versions
 - GUI (graphical user interface).
