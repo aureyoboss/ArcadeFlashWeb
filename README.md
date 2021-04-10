@@ -54,7 +54,7 @@ Works on 100% Flash games ! 👍
 * [X] Show Bezel over Flash game (**f.caruso's** and **lorenzolamas** wish). You can turn it off.
 * [X] Possibility to make a screenshot (**f.caruso's** wish) to **Pictures folder** or by specify a folder by command line. Shortcut (Ctrl+S).
 * [X] Tests.
-* [ ] Upload the software on Github.
+* [X] Upload the software on Github.
 * [ ] Upload the code source on Github.
 
 ## Flash games
@@ -63,7 +63,7 @@ Works on 100% Flash games ! 👍
 ## Download
 ⚠ To work, need [Visual C++ 2017 x32](https://support.microsoft.com/fr-fr/topic/derniers-t%C3%A9l%C3%A9chargements-pris-en-charge-de-visual-c-2647da03-1eea-4433-9aff-95f26a218cc0 "").
 
-📥 To download **ArcadeFlashWeb** go to « *[Releases](https://github.com/aureyoboss/ArcadeFlashWeb/releases/tag/v1.0 "")* » folder.
+📥 To download **ArcadeFlashWeb** v1.0.1 go to « *[Releases](https://github.com/aureyoboss/ArcadeFlashWeb/releases/tag/v1.0.1 "")* » folder.
 
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_07.jpg?raw=true)
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_08.jpg?raw=true)
