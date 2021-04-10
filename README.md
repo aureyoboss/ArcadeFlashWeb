@@ -52,7 +52,7 @@ Works on 100% Flash games ! 👍
 * [X] Command line work with **slash** or **backslash** (**f.caruso's** wish).
 * [X] Add command line to start game in fullscreen « *-fullscreen* » (**f.caruso's** wish).
 * [X] Show Bezel over Flash game (**f.caruso's** and **lorenzolamas** wish). You can turn it off.
-* [X] Possibility to make a screenshot (**f.caruso's** wish) to **Pictures folder** and specify a folder by command line.
+* [X] Possibility to make a screenshot (**f.caruso's** wish) to **Pictures folder** or by specify a folder by command line. Shortcut (Ctrl+S).
 * [X] Tests.
 * [ ] Upload the software on Github.
 * [ ] Upload the code source on Github.
