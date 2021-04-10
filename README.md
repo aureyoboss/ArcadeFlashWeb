@@ -68,6 +68,7 @@ Works on 100% Flash games ! 👍
 
 📥 To download **ArcadeFlashWeb v1.0.1** go to « *[Releases](https://github.com/aureyoboss/ArcadeFlashWeb/releases/tag/v1.0.1 "")* » folder.
 
+## Screenshots
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_01.jpg?raw=true)
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_02.jpg?raw=true)
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_03.jpg?raw=true)
