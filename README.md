@@ -1,5 +1,5 @@
 # ArcadeFlashWeb 1.0.1
-🎮 **ArcadeFlashWeb** is a easy program to **play local/internet Flash Games (SWF)**, **without installing Flash Player** (works despite the end of Flash).
+🎮 **ArcadeFlashWeb** is a easy portable program to **play local/internet Flash Games (SWF)**, **without installing Flash Player** (works despite the end of Flash).
 
 💻 It's work on **Windows 7**, **8**, **8.1** and **10**. To control the mouse cursor and click with a gamepad, it use [**AntiMicro**](https://github.com/AntiMicro/antimicro "AntiMicro's Homepage").
 
@@ -20,7 +20,7 @@
 
 ## How work
 - GUI interface : **ArcadeFlashWeb.exe**
-- Command line exemple (SWF on local) : **ArcadeFlashWeb.exe** *-source:"C:/Users/AureyoBoss/Downloads/phoenotopia.swf" -swfwidth:900 -swfheight:600*
+- Command line exemple (SWF on local) : **ArcadeFlashWeb.exe** *-source:"C:/Users/AureyoBoss/Downloads/phoenotopia.swf"*
 - Command line (SWF on internet) : **ArcadeFlashWeb.exe** *-source:"https://www.diena.lt/sites/default/files/games/406479.swf"*
 
 ## Command line explanation
@@ -40,18 +40,17 @@
 * [x] Play SWF without installing Flash Player.
 * [x] Create GUI interface.
 * [X] French and english interface.
-* [x] Run in fullscreen.
+* [x] Run in fullscreen (hide menu).
 * [x] Play SWF and open internet adress with command line.
 * [x] Create a file browser.
 * [x] Add shortcuts in file browser (My documents, Downloads, Desktop, Home and Drive letter assignment).
 * [x] Add hotkeys to quit the software (keyboard 'ESC').
-* [x] If the Flash games can save your progress. The software saves your data in *C:\Users\Your Name Session\AppData\Local\ArcadeFlashWeb\QtWebEngine*.
+* [x] If the Flash games can save your progress. The software saves your data by default in *C:\Users\Your Name Session\AppData\Local\ArcadeFlashWeb\QtWebEngine*.
 * [X] Possibility of indicating a personalized directory (free in writing, without administrator rights), to save your Flash data progress.
 * [x] Possibility to load a game profile from **AntiMicro** by Command line (you must create before your profile for each Flash games in AntiMicro). The software will close automatically **AntiMicro** when quit ArcadeFlashWeb.
 * [x] Possibility to indicate in Command line the native resolution of a Flash (SWF) file.
-* [x] Possibility to hide menu bar (auto hide after 5 seconds when load SWF file from a command line).
 * [X] Read native dimension of the Flash game and adapt this to the screen.
-* [X] Add scanlines or CRT mode over the game screen with command line and click icon on GUI.
+* [X] Add **SCANLINES** or **CRT** mode over the game screen with command line and click icon on GUI.
 * [X] Add a small mouse cursor (red dot) on game zone (on the Arcade Cabinet, this avoids connecting a mouse).
 * [X] Command line work with **slash** or **backslash** (**f.caruso's** wish).
 * [X] Add command line to start game in fullscreen « *-fullscreen* » (**f.caruso's** wish).
