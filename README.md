@@ -2,7 +2,7 @@
 
 🎮 **ArcadeFlashWeb** is a easy portable program to **play local/internet Flash games (SWF)**, **without installing Flash Player** (works despite the end of Flash).
 
-💻 It works under **Windows 7**, **8**, **8.1** and **10**. To control the mouse cursor and click with a gamepad, it use [**AntiMicro**](https://github.com/AntiMicro/antimicro "AntiMicro's Homepage").
+💻 It works under **Windows 7**, **8**, **8.1** and **10**.
 
 :tada: With **ArcadeFlashWeb** it's therefore possible to play Flash games in 2021!
 
@@ -19,7 +19,7 @@
 - Flash games save your progress, by default in "*C:\Users\Your Name Session\AppData\Local\ArcadeFlashWeb\QtWebEngine*" (you can specify your own save folder by command line).
 - Read native dimensions of the Flash game and adapt this to the screen (you can also specify the dimensions by command line).
 - Small mouse cursor (red dot) on game zone (on the Arcade Cabinet, this avoids connecting a mouse).
-- Possibility to use AntiMicro.
+- Possibility to use [**AntiMicro**](https://github.com/AntiMicro/antimicro "AntiMicro's Homepage").
 
 ## RetroBat
 **ArcadeFlashWeb** will be present in the future version of the software [**RetroBat**](https://www.retrobat.ovh/ "RetroBat"), retro gaming.
