@@ -61,3 +61,4 @@
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_04.jpg?raw=true)
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_05.jpg?raw=true)
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_06.jpg?raw=true)
+![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_07.jpg?raw=true)
