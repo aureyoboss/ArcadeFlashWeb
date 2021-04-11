@@ -53,7 +53,7 @@
 ## Download
 ⚠ To work it needs [**Visual C++ 2017 (x32)**](https://support.microsoft.com/fr-fr/topic/derniers-t%C3%A9l%C3%A9chargements-pris-en-charge-de-visual-c-2647da03-1eea-4433-9aff-95f26a218cc0 "").
 
-📥 To download **ArcadeFlashWeb v1.0.1** go to « *[**Releases**](https://github.com/aureyoboss/ArcadeFlashWeb/releases/tag/v1.0.1 "")* » folder.
+📥 To download **ArcadeFlashWeb v1.0.2** go to « *[**Releases**](https://github.com/aureyoboss/ArcadeFlashWeb/releases/tag/v1.0.2 "")* » folder.
 
 ## Screenshots
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_01.jpg?raw=true)
