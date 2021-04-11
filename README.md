@@ -16,8 +16,8 @@
 - Possibility to make a screenshot of the game.
 - Possibility to play in fullscreen.
 - Bezel, SCANLINES or CRT mods.
-- Flash games save your progress, by default in *C:\Users\Your Name Session\AppData\Local\ArcadeFlashWeb\QtWebEngine* (you can specify your own save folder).
-- Read native dimensions of the Flash game and adapt this to the screen (you can also specify the dimensions in command line).
+- Flash games save your progress, by default in *C:\Users\Your Name Session\AppData\Local\ArcadeFlashWeb\QtWebEngine* (you can specify your own save folder by command line).
+- Read native dimensions of the Flash game and adapt this to the screen (you can also specify the dimensions by command line).
 - Small mouse cursor (red dot) on game zone (on the Arcade Cabinet, this avoids connecting a mouse).
 - Possibility to use AntiMicro.
 
