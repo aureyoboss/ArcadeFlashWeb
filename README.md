@@ -14,7 +14,7 @@
 - Versions **GUI** and **Command line** (perfect for Arcade Cabinet).
 - Integrated file browser.
 - Possibility to make a screenshot of the game.
-- Possibility yo play in fullscreen.
+- Possibility to play in fullscreen.
 - **Bezel**, **SCANLINES** or **CRT** mods.
 - Flash games save your progress, by default in *C:\Users\Your Name Session\AppData\Local\ArcadeFlashWeb\QtWebEngine* (you can specify your own save folder).
 - Read native dimensions of the Flash game and adapt this to the screen (you can also specify the dimensions in command line).
