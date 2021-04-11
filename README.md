@@ -15,11 +15,11 @@
 - Integrated file browser.
 - Possibility to make a screenshot of the game.
 - Possibility to play in fullscreen.
-- **Bezel**, **SCANLINES** or **CRT** mods.
+- Bezel, SCANLINES or CRT mods.
 - Flash games save your progress, by default in *C:\Users\Your Name Session\AppData\Local\ArcadeFlashWeb\QtWebEngine* (you can specify your own save folder).
 - Read native dimensions of the Flash game and adapt this to the screen (you can also specify the dimensions in command line).
 - Small mouse cursor (red dot) on game zone (on the Arcade Cabinet, this avoids connecting a mouse).
-- Possibility to use **AntiMicro**.
+- Possibility to use AntiMicro.
 
 ## RetroBat
 **ArcadeFlashWeb** will be present in the future version of the software [**RetroBat**](https://www.retrobat.ovh/ "RetroBat"), retro gaming.
