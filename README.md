@@ -7,13 +7,18 @@
 
 👍 **Works on 100% Flash games!**
 
-## Versions
-- GUI (graphical user interface).
-- Command line (perfect for Arcade Cabinet).
-
-## Languages
-- French.
-- English.
+## Features
+- Play SWF without installing Flash Player (on local and on internet).
+- French and English languages.
+- Versions **GUI** and **Command line** (perfect for Arcade Cabinet).
+- Integrated file browser.
+- Possibility to make a screenshot of the game.
+- Possibility yo play in fullscreen.
+- **Bezel**, **SCANLINES** or **CRT** mods.
+- Flash games save your progress, by default in *C:\Users\Your Name Session\AppData\Local\ArcadeFlashWeb\QtWebEngine* (you can specify your own save folder).
+- Read native dimensions of the Flash game and adapt this to the screen (you can also specify the dimensions in command line).
+- Small mouse cursor (red dot) on game zone (on the Arcade Cabinet, this avoids connecting a mouse).
+- Possibility to use **AntiMicro**.
 
 ## RetroBat
 **ArcadeFlashWeb** will be present in the future version of the software [**RetroBat**](https://www.retrobat.ovh/ "RetroBat"), retro gaming.
@@ -36,29 +41,9 @@
 - **-picturesfolder:** > *Specify the path to save **screenshots**, by default is « Pictures » folder (example : -picturesfolder:"D:/RetroBat/Screenshots").*
 - **-?** or **-help** > *Show command line.*
 
-## ToDoList
-* [x] Play SWF without installing Flash Player.
-* [x] Create GUI interface.
-* [X] French and english interface.
-* [x] Run in fullscreen (hide menu).
-* [x] Play SWF and open internet adress with command line.
-* [x] Create a file browser.
-* [x] Add shortcuts in file browser (My documents, Downloads, Desktop, Home and Drive letter assignment).
-* [x] Add hotkeys to quit the software (keyboard 'ESC').
-* [x] If the Flash games can save your progress. The software saves your data by default in *C:\Users\Your Name Session\AppData\Local\ArcadeFlashWeb\QtWebEngine*.
-* [X] Possibility of indicating a personalized directory (free in writing, without administrator rights), to save your Flash data progress.
-* [x] Possibility to load a game profile from **AntiMicro** by Command line (you must create before your profile for each Flash games in AntiMicro). The software will close automatically **AntiMicro** when quit ArcadeFlashWeb.
-* [x] Possibility to indicate in Command line the native resolution of a Flash (SWF) file.
-* [X] Read native dimension of the Flash game and adapt this to the screen.
-* [X] Add **SCANLINES** or **CRT** mode over the game screen with command line and click icon on GUI.
-* [X] Add a small mouse cursor (red dot) on game zone (on the Arcade Cabinet, this avoids connecting a mouse).
-* [X] Command line work with **slash** or **backslash** (**f.caruso's** wish).
-* [X] Add command line to start game in fullscreen « *-fullscreen* » (**f.caruso's** wish).
-* [X] Show Bezel over Flash game (**f.caruso's** and **lorenzolamas** wish). You can turn it off.
-* [X] Possibility to make a screenshot (**f.caruso's** wish) to **Pictures folder** or by specify a folder by command line. Shortcut (Ctrl+S).
-* [X] Tests.
-* [X] Upload the software on Github.
-* [ ] Upload the code source on Github.
+## Shortcuts
+* To quit, you can use « *ESC* ».
+* To take a screenshort, you can use « *Ctrl+S* ».
 
 ## Flash games
 🕹 Somes Flash games are present in « *[**Games**](https://github.com/aureyoboss/ArcadeFlashWeb/tree/main/games "")* » folder.
