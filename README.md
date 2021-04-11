@@ -1,6 +1,6 @@
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb.png?raw=true)
 
-🎮 **ArcadeFlashWeb** is a easy portable program to **play local/internet Flash games (SWF)**, **without installing Flash Player** (works despite the end of Flash).
+🎮 **ArcadeFlashWeb** is a easy portable program to **play local/internet Flash games (SWF)**, **without installing Flash Player** (works despite the end of Flash). Logo created by **Hel Mic**.
 
 💻 It works under **Windows 7**, **8**, **8.1** and **10**.
 
