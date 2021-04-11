@@ -6,7 +6,7 @@
 
 :tada: With **ArcadeFlashWeb** it's therefore possible to play Flash games in 2021!
 
-👍 **Works on 100% Flash games!**
+👍 **Works with all Flash games!**
 
 ## Features
 - Play SWF without installing Flash Player (on local and on internet).
