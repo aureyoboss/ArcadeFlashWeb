@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="qtquickcontrols2.conf">qtquickcontrols2.conf</file>
+        <file alias="icon_ArcadeFlashWeb.ico">icon_ArcadeFlashWeb.ico</file>
+        <file alias="img/swf-file.svg">img/swf-file.svg</file>
+        <file alias="img/close.svg">img/close.svg</file>
+        <file alias="img/about.svg">img/about.svg</file>
+        <file alias="img/internet.svg">img/internet.svg</file>
+        <file alias="img/minimize.svg">img/minimize.svg</file>
+        <file alias="img/folder-desktop.svg">img/folder-desktop.svg</file>
+        <file alias="img/folder-download.svg">img/folder-download.svg</file>
+        <file alias="img/folder-mydocuments.svg">img/folder-mydocuments.svg</file>
+        <file alias="img/folder-user.svg">img/folder-user.svg</file>
+        <file alias="img/full-screen.svg">img/full-screen.svg</file>
+        <file alias="img/exit-full-screen.svg">img/exit-full-screen.svg</file>
+        <file alias="img/screen_mod.svg">img/screen_mod.svg</file>
+        <file alias="img/layers.svg">img/layers.svg</file>
+        <file alias="img/camera.svg">img/camera.svg</file>
+        <file alias="img/date-time.svg">img/date-time.svg</file>
+        <file alias="img/crt.png">img/crt.png</file>
+        <file alias="img/scanlines.png">img/scanlines.png</file>
+        <file alias="img/background.jpg">img/background.jpg</file>
+        <file alias="img/bezel.png">img/bezel.png</file>
+        <file alias="img/icon.png">img/icon.png</file>
+        <file alias="qtquickcontrols2.conf">qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>icon_ArcadeFlashWeb.ico</file>
+        <file>img/swf-file.svg</file>
+        <file>img/close.svg</file>
+        <file>img/about.svg</file>
+        <file>img/internet.svg</file>
+        <file>img/minimize.svg</file>
+        <file>img/folder-desktop.svg</file>
+        <file>img/folder-download.svg</file>
+        <file>img/folder-mydocuments.svg</file>
+        <file>img/folder-user.svg</file>
+        <file>img/full-screen.svg</file>
+        <file>img/exit-full-screen.svg</file>
+        <file>img/screen_mod.svg</file>
+        <file>img/layers.svg</file>
+        <file>img/camera.svg</file>
+		<file>img/date-time.svg</file>
+        <file>img/crt.png</file>
+        <file>img/scanlines.png</file>
+        <file>img/background.jpg</file>
+        <file>img/bezel.png</file>
+        <file>img/icon.png</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Header.qml</file>
+        <file>Navigateur.qml</file>
+        <file>DateHeure.qml</file>
+        <file>Infos.qml</file>
+        <file>Sauvegarde.js</file>
+    </qresource>
+</RCC>
