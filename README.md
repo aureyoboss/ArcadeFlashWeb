@@ -47,6 +47,10 @@
 * To quit, you can use « *ESC* ».
 * To take a screenshort, you can use « *Ctrl+S* ».
 
+## Antivirus - False positives
+Some antiviruses, like **Bitdefender/McAfee/Ad-Aware**, detect **ArcadeFlashWeb** like **Gen:Variant.Razy** or **Artemis**.
+These are false positives.
+
 ## Flash games
 🕹 Somes Flash games are present in « *[**Games**](https://github.com/aureyoboss/ArcadeFlashWeb/tree/main/games "")* » folder.
 
