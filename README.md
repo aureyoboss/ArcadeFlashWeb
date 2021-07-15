@@ -48,7 +48,7 @@
 * To take a screenshort, you can use « *Ctrl+S* ».
 
 ## Antivirus - False positives
-Some antiviruses, like **Bitdefender/McAfee/Ad-Aware**, detect **ArcadeFlashWeb** like **Gen:Variant.Razy** or **Artemis**.
+Some Antivirus, like **Bitdefender/McAfee/Ad-Aware**, detects **ArcadeFlashWeb** like **Gen:Variant.Razy** or **Artemis**.
 These are false positives.
 
 ## Flash games
