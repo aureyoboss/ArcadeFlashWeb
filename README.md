@@ -48,8 +48,8 @@
 * To take a screenshort, you can use « *Ctrl+S* ».
 
 ## Antivirus - False positives
-Some Antivirus, like **Bitdefender/McAfee/Ad-Aware**, detects **ArcadeFlashWeb** like **Gen:Variant.Razy** or **Artemis**.
-These are false positives.
+Some Antivirus, **Bitdefender/McAfee/Ad-Aware**, detects **ArcadeFlashWeb** like **Gen:Variant.Razy** or **Artemis**.
+👉 **These are false positives**.
 
 ## Flash games
 🕹 Somes Flash games are present in « *[**Games**](https://github.com/aureyoboss/ArcadeFlashWeb/tree/main/games "")* » folder.
