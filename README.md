@@ -23,7 +23,7 @@
 - Possibility to use [**AntiMicro**](https://github.com/AntiMicro/antimicro "AntiMicro's Homepage").
 
 ## RetroBat
-**ArcadeFlashWeb** will be present in the future version of the software [**RetroBat**](https://www.retrobat.ovh/ "RetroBat"), retro gaming.
+**ArcadeFlashWeb** is available in [**RetroBat**](https://www.retrobat.ovh/ "RetroBat") software (emulator retro gaming).
 
 ## How work
 - GUI interface : **ArcadeFlashWeb.exe**
