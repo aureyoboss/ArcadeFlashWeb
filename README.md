@@ -22,8 +22,8 @@
 - Show date and time.
 - Possibility to use [**AntiMicro**](https://github.com/AntiMicro/antimicro "AntiMicro's Homepage").
 
-## RetroBat
-**ArcadeFlashWeb** is available in [**RetroBat**](https://www.retrobat.ovh/ "RetroBat") software (emulator retro gaming).
+## RetroBat, EmulationStation & LaunchBox
+**ArcadeFlashWeb** is available in [**RetroBat**](https://www.retrobat.ovh/ "RetroBat") **EmulationStation** and **LaunchBox** software (emulator retro gaming).
 
 ## How work
 - GUI interface : **ArcadeFlashWeb.exe**
