@@ -60,6 +60,12 @@ Some Antivirus, **Bitdefender/McAfee/Ad-Aware**, detects **ArcadeFlashWeb** like
 
 📥 To download **ArcadeFlashWeb v1.0.2** go to « *[**Releases**](https://github.com/aureyoboss/ArcadeFlashWeb/releases/tag/v1.0.2 "")* » folder.
 
+## ❤️ Support the Project
+
+If you enjoy **ArcadeFlashWeb**, consider supporting development with a donation.
+
+🪙https://liberapay.com/AureyoBoss/donate
+
 ## Screenshots
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_01.jpg?raw=true)
 ![alt text](https://github.com/aureyoboss/ArcadeFlashWeb/blob/main/screenshots/ArcadeFlashWeb_02.jpg?raw=true)
